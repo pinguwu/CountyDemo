@@ -1,0 +1,10 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+p {
+	color: white;
+	font: 2em "Lato" sans-serif;
+}
